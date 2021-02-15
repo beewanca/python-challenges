@@ -1,8 +1,5 @@
 from datetime import datetime
 
-time = datetime.now().time()
-day = datetime.now().day
+current_time = datetime.now()
 
-print("Current day =", day)
-print("Current time =", time)
-
+print(current_time)
