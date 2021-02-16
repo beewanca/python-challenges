@@ -1,5 +1,5 @@
 #inserting name
 name = input('Type your name: ')
 
-#welcoming  name inserted
+#welcoming name inserted
 print(f'Welcome, {name}!')
